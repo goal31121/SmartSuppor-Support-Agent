@@ -250,26 +250,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a Pull Request
 
----
-
-## 👤 Author
-
-Muqadas Ejaz
-
-BS Computer Science (AI Specialization)
-
-AI/ML Engineer
-
-Kaggle Grand Master
-
-Data Science & Gen AI 
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
-
-🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
-
-📬 Kaggle: [Kaggle Profile](https://www.kaggle.com/muqaddasejaz) 
-
 
 ----
 
